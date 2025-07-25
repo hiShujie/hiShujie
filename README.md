@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<p><img src = "https://komarev.com/ghpvc/?username=hiShujie&style=plastic&color=blue" alt = "Profile Views"/></p>
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=hiShujie&style=plastic&color=blue"> •   
   <a href="https://user-badge.committers.top/india_private/hiShujie"><img src="https://user-badge.committers.top/india_private/hiShujie.svg"></a> •
