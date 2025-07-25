@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, this is Shujie’s page! 👏
 
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=hiShujie&style=plastic&color=blue"> •   
@@ -10,3 +10,4 @@
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hiShujie&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiShujie)](https://github.com/anuraghazra/github-readme-stats)
